@@ -1,2 +1,2 @@
 # GTK
-Repository for my GTK studies.
+Repository for my studies in GTK.
